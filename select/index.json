@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "音の灯火（feat. 詩の出素。）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T06:34:38.315061Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "音の灯火 (feat. 詩の出素。)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_音の灯火_(feat._詩の出素。)_MIMI.txt"
+    }
+  ]
+}
